@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: server-client
+server:
+  port: 9301
